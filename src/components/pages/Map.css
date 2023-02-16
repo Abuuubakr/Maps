@@ -1,0 +1,9 @@
+@import url("~leaflet/dist/leaflet.css");
+
+body,
+#root,
+.leaflet-container {
+  height: 88vh;
+  width: 100%;
+  z-index: 1;
+}
